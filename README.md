@@ -1,1 +1,1 @@
-This project serves as the start of my ALX software engineering project which is to be documented on Github. With time i'll be adding more files containing those project and this README file is subject to change later on.
+my first README
